@@ -1,0 +1,21 @@
+*,*::before,*::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html{
+  font-size: 62.5%;
+}
+img{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+body{
+  background-color: lightgrey;
+}
+.logo-img{
+  width: 20rem;
+  height:20rem;
+  border-radius: 50%;
+}
